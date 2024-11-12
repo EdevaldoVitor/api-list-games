@@ -1,9 +1,7 @@
 package com.dev.vitor.api.entities;
 
 
-import com.dev.vitor.api.dto.GameDTO;
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
