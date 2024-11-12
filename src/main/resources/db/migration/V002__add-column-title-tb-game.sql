@@ -1,0 +1,1 @@
+ALTER TABLE tb_game ADD COLUMN title VARCHAR(255);
